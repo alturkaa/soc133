@@ -1,0 +1,25 @@
+Questions to help guide your blog post (10/17/17):
+
+1) What is your research question? 
+
+2) What is the main independent variable (explanatory factor) and what is the main dependent variable (outcome of interest)? 
+
+3) How did we measure these in our survey? In other words, are these variables categorical or continuous?
+
+4) Why is this an interesting topic? (you should lead your post with this)
+
+5) What do Putnam, Campbell, or others say about this research question? (you can skip this part for today)
+
+6) Run some analysis.
+
+a. First, show one-variable distributions.
+b. Then, show relationships between two variables. Run group_by and summarize to get tables. Run ggplot to get plots. 
+c. What does your evidence show?
+
+7) What are variations of the main question that you may want to explore? Try the following:
+
+a. How do TWO different IVs affect your DV differently?
+b. How does your IV affect TWO different DVs differently?
+c. How do two IVs TOGETHER affect your DV; how would you show this three variable relationship?
+
+8) You also need to say something about the survey itself. How many people did we interview? What are some demographic breakdowns (gender, education, partisanship, etc.)? How do these breakdowns compare with the U.S. population (you'll need to look this up)?
