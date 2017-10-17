@@ -1,0 +1,24 @@
+#### Data I added to the survey file
+
+- age_cats: age broken down by categories (based on Putnam's breakdown, p. 252)
+- partisan_3pt: three category partisanship (liberal, conservative, moderate), based on person's response to partisan_7pt question
+- curr_dem_margin: margin (negative number means Trump won, positive number means Clinton won) of person's current county
+- curr_phi_00_16: political heterogeneity of person's current county from 2000 to 2016 (higher number means more homogeneous)
+- curr_phi_80_96: political heterogeneity of person's current county from 1980 to 1996 (higher number means more homogeneous)
+- curr_pop: population of person's current county
+- curr_white_alone: white population of person's current county
+- curr_workers_outside_home: people over the age of 16 who work outside the house, in person's current county
+- curr_bach_degree_higher: number of people with bachelor's degree or higher, in person's current county
+- curr_median_income: median household income of person's current county
+- curr_gini: income inequality in person's current county (the higher the number, the more unequal)
+- curr_avg_commute: average commute to work, in minutes, in person's current county
+- hs_dem_margin: margin (negative number means Trump won, positive number means Clinton won) of person's high school county
+- hs_phi_00_16: political heterogeneity of person's high school county from 2000 to 2016 (higher number means more homogeneous)
+- hs_phi_80_96: political heterogeneity of person's high school county from 1980 to 1996 (higher number means more homogeneous)
+- hs_pop: population of person's high school county
+- hs_white_alone: white population of person's high school county
+- hs_workers_outside_home: people over the age of 16 who work outside the house, in person's high school county
+- hs_bach_degree_higher: number of people with bachelor's degree or higher, in person's high school county
+- hs_median_income: median household income of person's high school county
+- hs_gini: income inequality in person's high school county (the higher the number, the more unequal)
+- hs_avg_commute: average commute to work, in minutes, in person's high school county
