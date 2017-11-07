@@ -1,0 +1,23 @@
+# Data
+
+#### Data sources: U.S. Census, David Leip's U.S. Atlas of Elections, Association of Religion Data Archives, and Rupasingha, A., Goetz, S. J., & Freshwater, D. for social capital variables
+
+- FIPS: unique ID for each county
+- fb_10yrs: number of people born outside the U.S. that came in last 10 years
+- less_HS: number of people (age 25 and above) without a HS degree
+- bach_more: number of people (age 25 and above) with at least a bachelor's degree
+- white_25_over: number of non-Hispanic white people (age 25 and above)
+- white_bach_more: same as above for non-Hispanic whites
+- white_less_H: same as above for non-Hispanic whites
+- employed/unemployed: number of people (age 16 and above) that are employed/unemployed
+- six columns after unemployed: number of people in different industries ("fire" stands for finance, insurance, and real estate)
+- share_creative: proportion of working people in "creative" industries
+- eleven columns after share_creative: number of leagues/organizations
+- congregations: total number of religious congregations (only year 2000 and after)
+- adherents: total number of religious adherents (only year 2000 and after)
+- rate_per_thousand: total number of adherents per 1,000 people (only year 2000 and after) 
+- columns after this: number of congregations, adherents, and adherents per 1,000 people for different religious denominations
+- share_same_house: proportion of people who are living in the same house as they did recently
+- share_moved_same_county: proportion of people who moved recently, but to a house in the same county
+- share_moved_diff_county_same_state: proportion of people who moved recently, to a different county but in the same state
+- share_moved_diff_state: proportion of people who moved recently, to a different state
