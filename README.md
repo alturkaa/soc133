@@ -1,4 +1,4 @@
-# Materials for learning R in SOC 133
+# Material for learning R in SOC 133
 
 This is where materials for our data workshops will be. 
 
